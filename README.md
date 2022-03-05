@@ -2,13 +2,13 @@
 
 # Portfolio
 
-> Book list, Add book, Remove book, navigation bar, OnePage tech
+> Webpack
 
 ![screenshot](./screenshot.png)
 
 ## Live Demo
 
-[Live Demo Link](https://beyk.github.io/AwesomeBook/)
+[Live Demo Link](https://beyk.github.io/webpack/)
 
 ## Built With
 
